@@ -15,8 +15,8 @@ when a key is pressed.
 Keypad Key Use:
   "Entr"      - checks the password you entered when pressed. Returns a
                 "true" boolean status.
-  "Clr"       - backspaces and erases the last character entered
-  "End"       - exits password check without the password check. Returns
+  "Clr"       - backspaces and erases the last character entered.
+  "End"       - exits password check without doing the check. Returns
                 a "false" boolean status.
   "*" or "#"  - no special meaning. These characters can be used in 
                 the password.
